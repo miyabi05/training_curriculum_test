@@ -40,3 +40,5 @@ class CalendarsController < ApplicationController
 
   end
 end
+シンボル型
+{sample: 'value'}
